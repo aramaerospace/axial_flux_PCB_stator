@@ -10,3 +10,5 @@ Add steps between coil loops, add start and end points;
 Inner hole 25mm dia;
 Outer 12-sided poly 93mm flats,
 16x 20x6x2 magnets (to start)
+
+# https://github.com/gouldpa00/magnetless_motor
